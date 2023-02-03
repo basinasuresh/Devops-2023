@@ -1,0 +1,2 @@
+Devops is set of practices which fasten the delivery of product.
+Devops means Development puls Operations.
